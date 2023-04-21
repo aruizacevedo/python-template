@@ -21,6 +21,8 @@ install:
         pip install -r requirements.txt
 ```
 
+Install with: $ make install
+
 * Test Python Script
 
 In 'hello.py':
