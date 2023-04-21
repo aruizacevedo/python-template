@@ -1,8 +1,8 @@
 # python-template
 
-Modifying the approach from Noah Gift (Assimilate Python)
+Modified from from Noah Gift's approach in 'Assimilate Python'.
 
-## Project scafold
+## Project scafold steps
 
 * Create GitHub repo: 'python-template'
 
