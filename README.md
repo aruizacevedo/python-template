@@ -1,6 +1,6 @@
 # python-template
 
-Modified from from Noah Gift's approach in 'Assimilate Python'.
+Modified from Noah Gift's approach in 'Assimilate Python'.
 
 ## Project scafold steps
 
