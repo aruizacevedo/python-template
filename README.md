@@ -1,15 +1,15 @@
-# Assimilate Python from Zero
+# python-template
 
-Noah Gift
+Modifying the approach from Noah Gift (Assimilate Python)
 
 ## Project scafold
 
-* Create GitHub repo: 'assimilate-python'
+* Create GitHub repo: 'python-template'
 
 * Create Conda/Venv, matching reponame: 
 ```
-$ conda create -n assimilate-python python=3 -y
-$ conda activate assimilate-python
+$ conda create -n python-template python=3 -y
+$ conda activate python-template
 ```
 
 * Create Makefile for common tasks:
